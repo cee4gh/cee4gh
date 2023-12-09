@@ -7,6 +7,7 @@
      <h7>Certifications<h7>
 
         ISC2 - Certified in Cyberbersecurity (cc)
+    
         Google cybersecurity professional certificate
 
         CompTIA Security+ certification
