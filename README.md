@@ -8,7 +8,7 @@
     
 <h7>Certifications:<h7>
 - [Google IT support Professional](https://github.com/cee4gh/LABURL)
-- [ISC2 - Certified in Cyberbersecurity(cc)](www.linkedin.com/in/sibiri-yakubu-485b6b27)
+- [ISC2 - Certified in Cybersecurity (cc)](www.linkedin.com/in/sibiri-yakubu-485b6b27)
     
   Google cybersecurity professional certificate (In progress: Projected March 2024)
 
