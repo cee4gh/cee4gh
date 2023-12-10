@@ -2,15 +2,17 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/cee4gh/LABURL)
+- [Active Directory Home Lab](https://github.com/cee4gh/LABURL)
 
-     <h7>Certifications<h7>
-
-        ISC2 - Certified in Cyberbersecurity (cc)
+- [Hello world](https://github.com/cee4gh/LABURL)
     
-        Google cybersecurity professional certificate
+<h7>Certifications:<h7>
+- [Google IT support Professional](https://github.com/cee4gh/LABURL)
+- [ISC2 - Certified in Cyberbersecurity(cc)](www.linkedin.com/in/sibiri-yakubu-485b6b27)
+    
+  Google cybersecurity professional certificate (In progress: Projected March 2024)
 
-        CompTIA Security+ certification
+  CompTIA Security+ certification (In progress: Projected April 2024)
 
 <h2>📺 Popular YouTube Videos</h2>
 
