@@ -5,18 +5,19 @@
 - [Active Directory Home Lab](https://github.com/cee4gh/ActiveDirectoryLab/edit/main/README.md)
 
 - [Python Projects](https://github.com/cee4gh/LABURL)
+  
+- [Nessus Essentials Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
     
 <h7>Certifications:<h7>
-- [Google IT support Professional](https://github.com/cee4gh/LABURL)
+- [Google cybersecurity professional certificate](https://github.com/cee4gh/LABURL)
 - [ISC2 - Certified in Cybersecurity (cc)](www.linkedin.com/in/sibiri-yakubu-485b6b27)
-    
-  Google cybersecurity professional certificate
 
   CompTIA Security+ certification (In progress: Projected December, 2024)
 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Nessus Essentials Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
