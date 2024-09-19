@@ -10,9 +10,9 @@
 - [Google IT support Professional](https://github.com/cee4gh/LABURL)
 - [ISC2 - Certified in Cybersecurity (cc)](www.linkedin.com/in/sibiri-yakubu-485b6b27)
     
-  Google cybersecurity professional certificate (In progress: Projected March 2024)
+  Google cybersecurity professional certificate
 
-  CompTIA Security+ certification (In progress: Projected April 2024)
+  CompTIA Security+ certification (In progress: Projected December, 2024)
 
 <h2>📺 Popular YouTube Videos</h2>
 
