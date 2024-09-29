@@ -10,7 +10,7 @@
     
 <h7>Certifications:<h7>
 - [Google cybersecurity professional certificate](https://www.credly.com/badges/4cc48c32-6df4-46b3-8f35-d77a5bcf173b/public_url)
-- [ISC2 - Certified in Cybersecurity (cc)](https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)
+- [ISC2 - Certified in Cybersecurity (cc)](https://www.credly.com/badges/b0fe0212-0bbb-4692-a5b8-625d918a562b/linked_in_profile)
 
   CompTIA Security+ certification (In progress: Projected December, 2024)
 
