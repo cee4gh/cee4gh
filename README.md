@@ -9,8 +9,8 @@
 - [Nessus Essentials Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
     
 <h7>Certifications:<h7>
-- [Google cybersecurity professional certificate](https://coursera.org/verify/professional-cert/826FMZN45RC2)
-- [ISC2 - Certified in Cybersecurity (cc)](www.linkedin.com/in/sibiri-yakubu-485b6b27)
+- [Google cybersecurity professional certificate](https://www.credly.com/badges/4cc48c32-6df4-46b3-8f35-d77a5bcf173b/public_url)
+- [ISC2 - Certified in Cybersecurity (cc)](https://www.isc2.org/MemberVerification)
 
   CompTIA Security+ certification (In progress: Projected December, 2024)
 
